@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Pedro Teodoro
 - 🔭 Cursando Ciencia da Computação
-- 🌱 Estudando C++ e python
+- 🌱 Estudando C++ e Python
 - 📫 joao.pedro05@yahoo.com.br
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedro-3105&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
